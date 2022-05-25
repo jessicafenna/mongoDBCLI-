@@ -1,0 +1,4 @@
+# everything here won't get pushed to github
+
+/node_modules 
+.env
